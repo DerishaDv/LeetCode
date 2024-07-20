@@ -1,4 +1,4 @@
-class AllPathsSourceToTarget {
+class AllPathsSourceToTarget {//Leetcode797
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
         List<List<Integer>> paths = new ArrayList<>();
         List<Integer> path = new ArrayList<>();
